@@ -3,6 +3,7 @@ import os
 import random
 import neat
 
+
 ai_jogando = True
 recorde, geracao, recorde_geracao = 0,0,0
 
